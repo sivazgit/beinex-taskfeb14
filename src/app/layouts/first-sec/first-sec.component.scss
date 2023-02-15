@@ -1,0 +1,18 @@
+@import '/src/assets/scss/variables';
+@import '/src/assets/scss/mixins';
+@import '/src/assets/scss/base';
+
+
+h5{
+    margin-top: 350px;
+    margin-bottom: 350px;
+    font-size: 70px;
+    font-style: italic;
+}
+
+.quote{
+    text-align: center;
+    margin-top: 50px;
+    color:$color-primary;
+    font-style:italic;
+}
